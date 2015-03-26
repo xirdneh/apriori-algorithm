@@ -1,0 +1,1233 @@
+Frequent set: { El Salvador Aid }, support: 0.49
+Frequent set: { Not Aid to Nicaraguan Contras }, support: 0.41
+Frequent set: { Not MX Missile }, support: 0.47
+Frequent set: { Export Administration Act South Africa }, support: 0.62
+Frequent set: { Not Superfund Right to Sue }, support: 0.46
+Frequent set: { Water Project Cost Sharing }, support: 0.45
+Frequent set: { Democrat }, support: 0.61
+Frequent set: { Physician Fee Freeze }, support: 0.41
+Frequent set: { Handicapped Infants }, support: 0.43
+Frequent set: { Republican }, support: 0.39
+Frequent set: { Not Religious Groups in Schools }, support: 0.35
+Frequent set: { Not Immigration }, support: 0.49
+Frequent set: { Not Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Not El Salvador Aid }, support: 0.48
+Frequent set: { Religious Groups in Schools }, support: 0.63
+Frequent set: { MX Missile }, support: 0.48
+Frequent set: { Not Synfuel Corporatino Cutback }, support: 0.61
+Frequent set: { Not Anty Satellite Test Band }, support: 0.42
+Frequent set: { Not Duty Free Exports }, support: 0.54
+Frequent set: { Crime }, support: 0.57
+Frequent set: { Duty Free Exports }, support: 0.40
+Frequent set: { Not Handicapped Infants }, support: 0.54
+Frequent set: { Synfuels Corporation Cutback }, support: 0.34
+Frequent set: { Not Crime }, support: 0.39
+Frequent set: { Aid to Nicaraguan Contras }, support: 0.56
+Frequent set: { Not Physician Fee Freeze }, support: 0.57
+Frequent set: { Immigration }, support: 0.50
+Frequent set: { Education Spending }, support: 0.93
+Frequent set: { Superfund Right to Sue }, support: 0.48
+Frequent set: { Not Water Project Cost Sharing }, support: 0.44
+Frequent set: { Adoption of the Budget Resolution }, support: 0.58
+Frequent set: { Anti Satellite Test Band }, support: 0.55
+Frequent set: { MX Missile,Not Crime }, support: 0.31
+Frequent set: { Education Spending,Water Project Cost Sharing }, support: 0.41
+Frequent set: { Anti Satellite Test Band,Education Spending }, support: 0.51
+Frequent set: { Export Administration Act South Africa,Crime }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Not Crime }, support: 0.37
+Frequent set: { Religious Groups in Schools,El Salvador Aid }, support: 0.45
+Frequent set: { Not Duty Free Exports,Physician Fee Freeze }, support: 0.34
+Frequent set: { Education Spending,Not Crime }, support: 0.37
+Frequent set: { Not El Salvador Aid,Not Crime }, support: 0.35
+Frequent set: { Not Immigration,Democrat }, support: 0.32
+Frequent set: { Immigration,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.48
+Frequent set: { Education Spending,El Salvador Aid }, support: 0.46
+Frequent set: { Anti Satellite Test Band,Duty Free Exports }, support: 0.33
+Frequent set: { Republican,Not Synfuel Corporatino Cutback }, support: 0.32
+Frequent set: { Not Immigration,Education Spending }, support: 0.45
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile }, support: 0.34
+Frequent set: { Not El Salvador Aid,MX Missile }, support: 0.41
+Frequent set: { Democrat,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Religious Groups in Schools,Water Project Cost Sharing }, support: 0.31
+Frequent set: { Religious Groups in Schools,Export Administration Act South Africa }, support: 0.36
+Frequent set: { Religious Groups in Schools,Superfund Right to Sue }, support: 0.43
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze }, support: 0.34
+Frequent set: { Religious Groups in Schools,Physician Fee Freeze }, support: 0.37
+Frequent set: { Not Duty Free Exports,El Salvador Aid }, support: 0.39
+Frequent set: { Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Anti Satellite Test Band,Handicapped Infants }, support: 0.32
+Frequent set: { Education Spending,Not Handicapped Infants }, support: 0.51
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue }, support: 0.37
+Frequent set: { Not Water Project Cost Sharing,Export Administration Act South Africa }, support: 0.30
+Frequent set: { Not El Salvador Aid,Export Administration Act South Africa }, support: 0.33
+Frequent set: { Handicapped Infants,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { MX Missile,Not Superfund Right to Sue }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Not Crime }, support: 0.37
+Frequent set: { Education Spending,Not MX Missile }, support: 0.44
+Frequent set: { MX Missile,Democrat }, support: 0.43
+Frequent set: { Democrat,Duty Free Exports }, support: 0.37
+Frequent set: { Handicapped Infants,Democrat }, support: 0.36
+Frequent set: { Religious Groups in Schools,Crime }, support: 0.49
+Frequent set: { Not Handicapped Infants,Not MX Missile }, support: 0.35
+Frequent set: { Not Handicapped Infants,Not Synfuel Corporatino Cutback }, support: 0.36
+Frequent set: { Anti Satellite Test Band,Not Religious Groups in Schools }, support: 0.32
+Frequent set: { MX Missile,Adoption of the Budget Resolution }, support: 0.41
+Frequent set: { Aid to Nicaraguan Contras,Not Religious Groups in Schools }, support: 0.33
+Frequent set: { Education Spending,Not Synfuel Corporatino Cutback }, support: 0.58
+Frequent set: { Not Duty Free Exports,Education Spending }, support: 0.51
+Frequent set: { Not Handicapped Infants,Superfund Right to Sue }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants }, support: 0.44
+Frequent set: { Not Handicapped Infants,El Salvador Aid }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue }, support: 0.40
+Frequent set: { Not Physician Fee Freeze,Export Administration Act South Africa }, support: 0.38
+Frequent set: { Aid to Nicaraguan Contras,Democrat }, support: 0.50
+Frequent set: { Synfuels Corporation Cutback,Education Spending }, support: 0.32
+Frequent set: { Superfund Right to Sue,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Not Duty Free Exports,Republican }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.41
+Frequent set: { Republican,Crime }, support: 0.36
+Frequent set: { Republican,Not MX Missile }, support: 0.34
+Frequent set: { Crime,Not Synfuel Corporatino Cutback }, support: 0.38
+Frequent set: { El Salvador Aid,Not Anty Satellite Test Band }, support: 0.37
+Frequent set: { Not Duty Free Exports,Not MX Missile }, support: 0.37
+Frequent set: { Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.35
+Frequent set: { Crime,Not Anty Satellite Test Band }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.49
+Frequent set: { Not Duty Free Exports,Not Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Handicapped Infants,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports }, support: 0.36
+Frequent set: { Education Spending,Duty Free Exports }, support: 0.37
+Frequent set: { Not Water Project Cost Sharing,Education Spending }, support: 0.42
+Frequent set: { MX Missile,Anti Satellite Test Band }, support: 0.42
+Frequent set: { Not Duty Free Exports,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Not Duty Free Exports,Not Handicapped Infants }, support: 0.34
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band }, support: 0.43
+Frequent set: { Not Superfund Right to Sue,Democrat }, support: 0.41
+Frequent set: { Adoption of the Budget Resolution,Duty Free Exports }, support: 0.35
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras }, support: 0.47
+Frequent set: { Religious Groups in Schools,Not Anty Satellite Test Band }, support: 0.39
+Frequent set: { Not Handicapped Infants,Crime }, support: 0.40
+Frequent set: { Education Spending,Not Religious Groups in Schools }, support: 0.33
+Frequent set: { Not Physician Fee Freeze,Democrat }, support: 0.56
+Frequent set: { MX Missile,Aid to Nicaraguan Contras }, support: 0.44
+Frequent set: { Not Duty Free Exports,Superfund Right to Sue }, support: 0.38
+Frequent set: { Export Administration Act South Africa,Not Synfuel Corporatino Cutback }, support: 0.38
+Frequent set: { Not Adoption of the Budget Resolution,Crime }, support: 0.36
+Frequent set: { Education Spending,Not Physician Fee Freeze }, support: 0.53
+Frequent set: { Not MX Missile,Crime }, support: 0.40
+Frequent set: { Not MX Missile,Not Anty Satellite Test Band }, support: 0.36
+Frequent set: { Adoption of the Budget Resolution,Democrat }, support: 0.53
+Frequent set: { Not Crime,Democrat }, support: 0.38
+Frequent set: { Education Spending,Physician Fee Freeze }, support: 0.38
+Frequent set: { Physician Fee Freeze,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Democrat }, support: 0.46
+Frequent set: { Not Adoption of the Budget Resolution,Superfund Right to Sue }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Handicapped Infants }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Republican }, support: 0.33
+Frequent set: { Not Duty Free Exports,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Superfund Right to Sue,Crime }, support: 0.41
+Frequent set: { Republican,El Salvador Aid }, support: 0.36
+Frequent set: { Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.43
+Frequent set: { Physician Fee Freeze,Superfund Right to Sue }, support: 0.33
+Frequent set: { Adoption of the Budget Resolution,Not Religious Groups in Schools }, support: 0.30
+Frequent set: { El Salvador Aid,Crime }, support: 0.45
+Frequent set: { Not Superfund Right to Sue,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Religious Groups in Schools,Education Spending }, support: 0.59
+Frequent set: { Not El Salvador Aid,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Republican,Education Spending }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Education Spending }, support: 0.52
+Frequent set: { Physician Fee Freeze,Crime }, support: 0.39
+Frequent set: { Not MX Missile,Physician Fee Freeze }, support: 0.35
+Frequent set: { Education Spending,Democrat }, support: 0.57
+Frequent set: { Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.46
+Frequent set: { Not Handicapped Infants,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Adoption of the Budget Resolution,Not Crime }, support: 0.36
+Frequent set: { Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.40
+Frequent set: { Not Adoption of the Budget Resolution,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { El Salvador Aid,Not Synfuel Corporatino Cutback }, support: 0.33
+Frequent set: { Not MX Missile,Not Synfuel Corporatino Cutback }, support: 0.30
+Frequent set: { Immigration,Crime }, support: 0.31
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.37
+Frequent set: { Superfund Right to Sue,El Salvador Aid }, support: 0.39
+Frequent set: { Superfund Right to Sue,Not Synfuel Corporatino Cutback }, support: 0.32
+Frequent set: { Republican,Not Handicapped Infants }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Export Administration Act South Africa }, support: 0.40
+Frequent set: { Not Superfund Right to Sue,Not Crime }, support: 0.31
+Frequent set: { Not Duty Free Exports,Not Synfuel Corporatino Cutback }, support: 0.36
+Frequent set: { Education Spending,Crime }, support: 0.54
+Frequent set: { Education Spending,Immigration }, support: 0.47
+Frequent set: { Handicapped Infants,Education Spending }, support: 0.40
+Frequent set: { Not Adoption of the Budget Resolution,Not Handicapped Infants }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Aid to Nicaraguan Contras }, support: 0.38
+Frequent set: { Religious Groups in Schools,Not MX Missile }, support: 0.43
+Frequent set: { Religious Groups in Schools,Immigration }, support: 0.34
+Frequent set: { Physician Fee Freeze,El Salvador Aid }, support: 0.39
+Frequent set: { Not Water Project Cost Sharing,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras }, support: 0.39
+Frequent set: { Aid to Nicaraguan Contras,Duty Free Exports }, support: 0.35
+Frequent set: { Anti Satellite Test Band,Not Crime }, support: 0.34
+Frequent set: { Not El Salvador Aid,Democrat }, support: 0.46
+Frequent set: { Aid to Nicaraguan Contras,Export Administration Act South Africa }, support: 0.39
+Frequent set: { Religious Groups in Schools,Republican }, support: 0.34
+Frequent set: { Export Administration Act South Africa,Democrat }, support: 0.40
+Frequent set: { Religious Groups in Schools,Not Synfuel Corporatino Cutback }, support: 0.38
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze }, support: 0.49
+Frequent set: { Republican,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.45
+Frequent set: { Not Physician Fee Freeze,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Not Duty Free Exports,Crime }, support: 0.43
+Frequent set: { Adoption of the Budget Resolution,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Adoption of the Budget Resolution,Education Spending }, support: 0.54
+Frequent set: { Not Aid to Nicaraguan Contras,Crime }, support: 0.38
+Frequent set: { Adoption of the Budget Resolution,Not Physician Fee Freeze }, support: 0.50
+Frequent set: { Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.40
+Frequent set: { Physician Fee Freeze,Not Synfuel Corporatino Cutback }, support: 0.32
+Frequent set: { Not El Salvador Aid,Duty Free Exports }, support: 0.32
+Frequent set: { Not Handicapped Infants,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Education Spending,Superfund Right to Sue }, support: 0.46
+Frequent set: { Physician Fee Freeze,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports }, support: 0.44
+Frequent set: { Republican,Superfund Right to Sue }, support: 0.31
+Frequent set: { Republican,Physician Fee Freeze }, support: 0.37
+Frequent set: { MX Missile,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Export Administration Act South Africa,Immigration }, support: 0.34
+Frequent set: { Not Handicapped Infants,Physician Fee Freeze }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending }, support: 0.43
+Frequent set: { Not Adoption of the Budget Resolution,El Salvador Aid }, support: 0.35
+Frequent set: { Education Spending,Export Administration Act South Africa }, support: 0.59
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.45
+Frequent set: { Not Handicapped Infants,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not El Salvador Aid,Education Spending }, support: 0.45
+Frequent set: { Not MX Missile,El Salvador Aid }, support: 0.42
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending }, support: 0.37
+Frequent set: { Not MX Missile,Superfund Right to Sue }, support: 0.36
+Frequent set: { Superfund Right to Sue,Not Aid to Nicaraguan Contras }, support: 0.34
+Frequent set: { Anti Satellite Test Band,Not Synfuel Corporatino Cutback }, support: 0.33
+Frequent set: { MX Missile,Not Physician Fee Freeze }, support: 0.41
+Frequent set: { Anti Satellite Test Band,Not Superfund Right to Sue }, support: 0.39
+Frequent set: { Aid to Nicaraguan Contras,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { MX Missile,Education Spending }, support: 0.45
+Frequent set: { Education Spending,Not Anty Satellite Test Band }, support: 0.39
+Frequent set: { Not Duty Free Exports,Republican,Crime }, support: 0.31
+Frequent set: { Not Crime,Not Physician Fee Freeze,Not El Salvador Aid }, support: 0.34
+Frequent set: { Physician Fee Freeze,El Salvador Aid,Crime }, support: 0.37
+Frequent set: { Not Crime,Education Spending,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Religious Groups in Schools,Superfund Right to Sue,Crime }, support: 0.38
+Frequent set: { Not Duty Free Exports,Education Spending,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.42
+Frequent set: { Not Adoption of the Budget Resolution,Republican,Crime }, support: 0.31
+Frequent set: { Education Spending,Physician Fee Freeze,Superfund Right to Sue }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Physician Fee Freeze,Duty Free Exports }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Democrat,Export Administration Act South Africa }, support: 0.38
+Frequent set: { Religious Groups in Schools,El Salvador Aid,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat }, support: 0.38
+Frequent set: { Not Synfuel Corporatino Cutback,Physician Fee Freeze,Crime }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.42
+Frequent set: { Not El Salvador Aid,Adoption of the Budget Resolution,Not Crime }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,MX Missile }, support: 0.33
+Frequent set: { Not Crime,Not Physician Fee Freeze,Education Spending }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Democrat }, support: 0.40
+Frequent set: { Anti Satellite Test Band,Education Spending,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Republican,Not MX Missile,Crime }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Education Spending }, support: 0.45
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Not Crime }, support: 0.34
+Frequent set: { Not Handicapped Infants,Physician Fee Freeze,Crime }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Crime,Democrat }, support: 0.34
+Frequent set: { Not Crime,Anti Satellite Test Band,Education Spending }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.37
+Frequent set: { Religious Groups in Schools,Physician Fee Freeze,El Salvador Aid }, support: 0.36
+Frequent set: { Not Handicapped Infants,Education Spending,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.47
+Frequent set: { Education Spending,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Education Spending,Superfund Right to Sue,Crime }, support: 0.39
+Frequent set: { Not Duty Free Exports,Physician Fee Freeze,El Salvador Aid }, support: 0.33
+Frequent set: { Handicapped Infants,Not Physician Fee Freeze,Democrat }, support: 0.34
+Frequent set: { Not El Salvador Aid,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,MX Missile }, support: 0.40
+Frequent set: { Not MX Missile,Education Spending,El Salvador Aid }, support: 0.40
+Frequent set: { Physician Fee Freeze,Superfund Right to Sue,Crime }, support: 0.32
+Frequent set: { Not Duty Free Exports,Education Spending,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { MX Missile,Anti Satellite Test Band,Democrat }, support: 0.38
+Frequent set: { Education Spending,Adoption of the Budget Resolution,Democrat }, support: 0.49
+Frequent set: { Religious Groups in Schools,Education Spending,Not Anty Satellite Test Band }, support: 0.37
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,El Salvador Aid }, support: 0.33
+Frequent set: { Handicapped Infants,Adoption of the Budget Resolution,Democrat }, support: 0.33
+Frequent set: { Not Adoption of the Budget Resolution,Republican,Education Spending }, support: 0.30
+Frequent set: { Not MX Missile,Not Adoption of the Budget Resolution,Education Spending }, support: 0.31
+Frequent set: { Republican,Education Spending,Crime }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Democrat }, support: 0.42
+Frequent set: { Republican,Not MX Missile,El Salvador Aid }, support: 0.33
+Frequent set: { Not MX Missile,Education Spending,Physician Fee Freeze }, support: 0.33
+Frequent set: { Not El Salvador Aid,Education Spending,Duty Free Exports }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,MX Missile }, support: 0.32
+Frequent set: { Not Duty Free Exports,Not Adoption of the Budget Resolution,Crime }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Duty Free Exports }, support: 0.32
+Frequent set: { Anti Satellite Test Band,Not Physician Fee Freeze,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Education Spending,Immigration,Crime }, support: 0.30
+Frequent set: { Not Aid to Nicaraguan Contras,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,El Salvador Aid }, support: 0.32
+Frequent set: { Not MX Missile,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Not Crime,Education Spending,Not El Salvador Aid }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Not Crime,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.37
+Frequent set: { Not MX Missile,Superfund Right to Sue,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not Duty Free Exports,Education Spending,Crime }, support: 0.41
+Frequent set: { Not MX Missile,Physician Fee Freeze,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Education Spending }, support: 0.42
+Frequent set: { Republican,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Anti Satellite Test Band,Education Spending,Export Administration Act South Africa }, support: 0.37
+Frequent set: { MX Missile,Education Spending,Aid to Nicaraguan Contras }, support: 0.42
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.43
+Frequent set: { Education Spending,Physician Fee Freeze,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Physician Fee Freeze }, support: 0.31
+Frequent set: { Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Democrat,MX Missile }, support: 0.41
+Frequent set: { Not Anty Satellite Test Band,Not MX Missile,Crime }, support: 0.33
+Frequent set: { Not Handicapped Infants,Education Spending,El Salvador Aid }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Republican }, support: 0.30
+Frequent set: { Religious Groups in Schools,Not MX Missile,Physician Fee Freeze }, support: 0.34
+Frequent set: { Superfund Right to Sue,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not Duty Free Exports,Education Spending,Physician Fee Freeze }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Duty Free Exports }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Education Spending,MX Missile }, support: 0.39
+Frequent set: { MX Missile,Adoption of the Budget Resolution,Not El Salvador Aid }, support: 0.37
+Frequent set: { Not Duty Free Exports,Not Adoption of the Budget Resolution,El Salvador Aid }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Not Duty Free Exports,Education Spending,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Republican,Not Adoption of the Budget Resolution,Physician Fee Freeze }, support: 0.32
+Frequent set: { Not Crime,Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Religious Groups in Schools,Education Spending,Not Aid to Nicaraguan Contras }, support: 0.36
+Frequent set: { Anti Satellite Test Band,Not Physician Fee Freeze,Democrat }, support: 0.45
+Frequent set: { Republican,Physician Fee Freeze,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Democrat }, support: 0.48
+Frequent set: { Religious Groups in Schools,Republican,El Salvador Aid }, support: 0.33
+Frequent set: { Not Duty Free Exports,Not Adoption of the Budget Resolution,Education Spending }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Education Spending,Democrat }, support: 0.43
+Frequent set: { Education Spending,Not Physician Fee Freeze,Duty Free Exports }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Education Spending,Duty Free Exports }, support: 0.31
+Frequent set: { Education Spending,Immigration,Export Administration Act South Africa }, support: 0.33
+Frequent set: { Education Spending,Not Crime,Democrat }, support: 0.36
+Frequent set: { Not Duty Free Exports,Physician Fee Freeze,Crime }, support: 0.33
+Frequent set: { Not Adoption of the Budget Resolution,El Salvador Aid,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not El Salvador Aid,Adoption of the Budget Resolution,Democrat }, support: 0.42
+Frequent set: { MX Missile,Education Spending,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Republican,Physician Fee Freeze,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Religious Groups in Schools,Education Spending,Physician Fee Freeze }, support: 0.34
+Frequent set: { Not MX Missile,Education Spending,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Handicapped Infants,Education Spending }, support: 0.31
+Frequent set: { Not Duty Free Exports,Education Spending,Not Synfuel Corporatino Cutback }, support: 0.34
+Frequent set: { Religious Groups in Schools,Physician Fee Freeze,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not Crime,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Religious Groups in Schools,Education Spending,Export Administration Act South Africa }, support: 0.35
+Frequent set: { Not Aid to Nicaraguan Contras,El Salvador Aid,Superfund Right to Sue }, support: 0.34
+Frequent set: { Not Anty Satellite Test Band,Education Spending,Crime }, support: 0.34
+Frequent set: { Religious Groups in Schools,Education Spending,Superfund Right to Sue }, support: 0.41
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Democrat }, support: 0.47
+Frequent set: { MX Missile,Democrat,Not El Salvador Aid }, support: 0.39
+Frequent set: { Religious Groups in Schools,Not MX Missile,El Salvador Aid }, support: 0.40
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Export Administration Act South Africa }, support: 0.36
+Frequent set: { Not El Salvador Aid,Education Spending,Democrat }, support: 0.43
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending }, support: 0.35
+Frequent set: { Not MX Missile,Education Spending,Not Aid to Nicaraguan Contras }, support: 0.35
+Frequent set: { Not Handicapped Infants,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Republican,Not Handicapped Infants,Physician Fee Freeze }, support: 0.30
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,El Salvador Aid }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Physician Fee Freeze }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Not Duty Free Exports,Not MX Missile,Crime }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Superfund Right to Sue }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,MX Missile }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Education Spending }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Handicapped Infants,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Republican,El Salvador Aid }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Democrat }, support: 0.36
+Frequent set: { Not MX Missile,Superfund Right to Sue,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Crime }, support: 0.34
+Frequent set: { Republican,Physician Fee Freeze,Superfund Right to Sue }, support: 0.31
+Frequent set: { Not El Salvador Aid,MX Missile,Aid to Nicaraguan Contras }, support: 0.40
+Frequent set: { Adoption of the Budget Resolution,Democrat,Export Administration Act South Africa }, support: 0.35
+Frequent set: { Not Duty Free Exports,Not Anty Satellite Test Band,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Democrat,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Religious Groups in Schools,Republican,Physician Fee Freeze }, support: 0.34
+Frequent set: { MX Missile,Not Superfund Right to Sue,Democrat }, support: 0.33
+Frequent set: { Education Spending,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.47
+Frequent set: { MX Missile,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Duty Free Exports }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Not Crime }, support: 0.35
+Frequent set: { MX Missile,Anti Satellite Test Band,Education Spending }, support: 0.40
+Frequent set: { Not Handicapped Infants,Education Spending,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Not MX Missile,El Salvador Aid,Crime }, support: 0.39
+Frequent set: { Anti Satellite Test Band,Democrat,Duty Free Exports }, support: 0.31
+Frequent set: { Religious Groups in Schools,Education Spending,Crime }, support: 0.46
+Frequent set: { Not Handicapped Infants,Physician Fee Freeze,El Salvador Aid }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Superfund Right to Sue }, support: 0.37
+Frequent set: { Not MX Missile,El Salvador Aid,Superfund Right to Sue }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Not Physician Fee Freeze,Education Spending,Export Administration Act South Africa }, support: 0.35
+Frequent set: { Religious Groups in Schools,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Adoption of the Budget Resolution }, support: 0.46
+Frequent set: { Religious Groups in Schools,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.37
+Frequent set: { MX Missile,Adoption of the Budget Resolution,Aid to Nicaraguan Contras }, support: 0.39
+Frequent set: { Religious Groups in Schools,Education Spending,Not Synfuel Corporatino Cutback }, support: 0.36
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras }, support: 0.44
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Anti Satellite Test Band,Democrat,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Not Superfund Right to Sue }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Not Crime,Democrat }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,Education Spending }, support: 0.33
+Frequent set: { Religious Groups in Schools,Education Spending,Immigration }, support: 0.32
+Frequent set: { Republican,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Not Duty Free Exports,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Education Spending,El Salvador Aid,Not Synfuel Corporatino Cutback }, support: 0.32
+Frequent set: { Not MX Missile,Education Spending,Not Duty Free Exports }, support: 0.35
+Frequent set: { Not Handicapped Infants,Education Spending,Not MX Missile }, support: 0.33
+Frequent set: { Not Handicapped Infants,Education Spending,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid }, support: 0.42
+Frequent set: { Superfund Right to Sue,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Handicapped Infants,Education Spending,Democrat }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not MX Missile,Education Spending }, support: 0.40
+Frequent set: { Not Physician Fee Freeze,Handicapped Infants,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Crime }, support: 0.39
+Frequent set: { Not Duty Free Exports,Education Spending,El Salvador Aid }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Duty Free Exports }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not El Salvador Aid,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Republican,Physician Fee Freeze,El Salvador Aid }, support: 0.36
+Frequent set: { Religious Groups in Schools,Republican,Not MX Missile }, support: 0.32
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Religious Groups in Schools,Not Synfuel Corporatino Cutback,Crime }, support: 0.33
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.36
+Frequent set: { MX Missile,Anti Satellite Test Band,Not Superfund Right to Sue }, support: 0.32
+Frequent set: { Not MX Missile,Physician Fee Freeze,Crime }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not MX Missile,Crime }, support: 0.38
+Frequent set: { Education Spending,Superfund Right to Sue,El Salvador Aid }, support: 0.37
+Frequent set: { Republican,Education Spending,Physician Fee Freeze }, support: 0.35
+Frequent set: { Not Physician Fee Freeze,Democrat,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Democrat }, support: 0.38
+Frequent set: { MX Missile,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Not El Salvador Aid,Export Administration Act South Africa,Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Superfund Right to Sue,Democrat }, support: 0.36
+Frequent set: { Education Spending,Superfund Right to Sue,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Not Duty Free Exports,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,Crime }, support: 0.33
+Frequent set: { Religious Groups in Schools,Physician Fee Freeze,Superfund Right to Sue }, support: 0.31
+Frequent set: { Not Duty Free Exports,Superfund Right to Sue,El Salvador Aid }, support: 0.34
+Frequent set: { Education Spending,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.35
+Frequent set: { Not Handicapped Infants,Education Spending,Superfund Right to Sue }, support: 0.33
+Frequent set: { Education Spending,Not Physician Fee Freeze,Democrat }, support: 0.53
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Education Spending }, support: 0.46
+Frequent set: { Education Spending,Superfund Right to Sue,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Not El Salvador Aid }, support: 0.43
+Frequent set: { MX Missile,Anti Satellite Test Band,Export Administration Act South Africa }, support: 0.30
+Frequent set: { Religious Groups in Schools,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.35
+Frequent set: { Not El Salvador Aid,Not Crime,Democrat }, support: 0.35
+Frequent set: { Republican,Education Spending,Not Synfuel Corporatino Cutback }, support: 0.30
+Frequent set: { Not Handicapped Infants,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Not Synfuel Corporatino Cutback,Education Spending,Crime }, support: 0.36
+Frequent set: { Not Handicapped Infants,Education Spending,Not Synfuel Corporatino Cutback }, support: 0.34
+Frequent set: { Religious Groups in Schools,Republican,Education Spending }, support: 0.32
+Frequent set: { MX Missile,Not Crime,Not El Salvador Aid }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Crime }, support: 0.36
+Frequent set: { Not Duty Free Exports,Not MX Missile,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { MX Missile,Export Administration Act South Africa,Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { MX Missile,Anti Satellite Test Band,Not El Salvador Aid }, support: 0.38
+Frequent set: { MX Missile,Not Physician Fee Freeze,Not Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Duty Free Exports,Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,Handicapped Infants,Education Spending }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.43
+Frequent set: { Anti Satellite Test Band,Not Superfund Right to Sue,Education Spending }, support: 0.36
+Frequent set: { Education Spending,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.43
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Education Spending }, support: 0.42
+Frequent set: { Education Spending,Adoption of the Budget Resolution,Duty Free Exports }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,El Salvador Aid }, support: 0.34
+Frequent set: { Education Spending,Physician Fee Freeze,El Salvador Aid }, support: 0.36
+Frequent set: { Not Adoption of the Budget Resolution,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Adoption of the Budget Resolution,Duty Free Exports }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not Handicapped Infants }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Democrat,Export Administration Act South Africa }, support: 0.37
+Frequent set: { Not Physician Fee Freeze,Democrat,Duty Free Exports }, support: 0.35
+Frequent set: { Religious Groups in Schools,Superfund Right to Sue,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not MX Missile,Superfund Right to Sue }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Not Crime }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Democrat }, support: 0.45
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.37
+Frequent set: { Anti Satellite Test Band,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.32
+Frequent set: { El Salvador Aid,Superfund Right to Sue,Physician Fee Freeze }, support: 0.32
+Frequent set: { Not MX Missile,Not Handicapped Infants,El Salvador Aid }, support: 0.33
+Frequent set: { Not Duty Free Exports,Republican,Education Spending }, support: 0.31
+Frequent set: { Republican,Not MX Missile,Physician Fee Freeze }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Not El Salvador Aid }, support: 0.37
+Frequent set: { Education Spending,Not Handicapped Infants,Crime }, support: 0.38
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,Crime }, support: 0.35
+Frequent set: { Education Spending,Handicapped Infants,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { MX Missile,Not Physician Fee Freeze,Democrat }, support: 0.41
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Not Duty Free Exports,Superfund Right to Sue,Crime }, support: 0.35
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not MX Missile }, support: 0.35
+Frequent set: { Not Handicapped Infants,Education Spending,Physician Fee Freeze }, support: 0.31
+Frequent set: { Adoption of the Budget Resolution,Democrat,Duty Free Exports }, support: 0.33
+Frequent set: { MX Missile,Education Spending,Democrat }, support: 0.40
+Frequent set: { Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.41
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid }, support: 0.45
+Frequent set: { Not MX Missile,Education Spending,Superfund Right to Sue }, support: 0.34
+Frequent set: { Not Synfuel Corporatino Cutback,Republican,Crime }, support: 0.30
+Frequent set: { Education Spending,El Salvador Aid,Crime }, support: 0.42
+Frequent set: { Not Handicapped Infants,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Not Duty Free Exports,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Not MX Missile,El Salvador Aid,Not Aid to Nicaraguan Contras }, support: 0.36
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,Crime }, support: 0.32
+Frequent set: { Not Anty Satellite Test Band,Not Aid to Nicaraguan Contras,Crime }, support: 0.32
+Frequent set: { MX Missile,Not Crime,Democrat }, support: 0.31
+Frequent set: { MX Missile,Not Superfund Right to Sue,Education Spending }, support: 0.32
+Frequent set: { Not Duty Free Exports,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.34
+Frequent set: { Physician Fee Freeze,El Salvador Aid,Not Synfuel Corporatino Cutback }, support: 0.30
+Frequent set: { Not Aid to Nicaraguan Contras,Superfund Right to Sue,Crime }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Anty Satellite Test Band,Crime }, support: 0.34
+Frequent set: { Religious Groups in Schools,Physician Fee Freeze,Crime }, support: 0.35
+Frequent set: { Republican,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.30
+Frequent set: { Not Duty Free Exports,Education Spending,Superfund Right to Sue }, support: 0.36
+Frequent set: { Physician Fee Freeze,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Not Crime,Not Physician Fee Freeze,Democrat }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.38
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Not El Salvador Aid }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.43
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Superfund Right to Sue }, support: 0.35
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat }, support: 0.50
+Frequent set: { Not Physician Fee Freeze,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Not Duty Free Exports,Republican,Physician Fee Freeze }, support: 0.32
+Frequent set: { Education Spending,Export Administration Act South Africa,Not Synfuel Corporatino Cutback }, support: 0.37
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.41
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Education Spending }, support: 0.41
+Frequent set: { Education Spending,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.37
+Frequent set: { Anti Satellite Test Band,Education Spending,Not Religious Groups in Schools }, support: 0.30
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,El Salvador Aid }, support: 0.33
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.38
+Frequent set: { Education Spending,Physician Fee Freeze,Not Synfuel Corporatino Cutback }, support: 0.31
+Frequent set: { Education Spending,Not MX Missile,Crime }, support: 0.38
+Frequent set: { Not El Salvador Aid,Democrat,Duty Free Exports }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not MX Missile,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { MX Missile,Not Physician Fee Freeze,Aid to Nicaraguan Contras }, support: 0.40
+Frequent set: { Not Duty Free Exports,Not MX Missile,El Salvador Aid }, support: 0.35
+Frequent set: { Not El Salvador Aid,Education Spending,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Not MX Missile,Superfund Right to Sue,Crime }, support: 0.33
+Frequent set: { Not Duty Free Exports,Not MX Missile,Superfund Right to Sue }, support: 0.31
+Frequent set: { Not Duty Free Exports,Superfund Right to Sue,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Education Spending,Democrat,Duty Free Exports }, support: 0.34
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras }, support: 0.44
+Frequent set: { Not Anty Satellite Test Band,Superfund Right to Sue,Crime }, support: 0.31
+Frequent set: { MX Missile,Education Spending,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Physician Fee Freeze,Crime }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Education Spending,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Republican,Education Spending,El Salvador Aid }, support: 0.34
+Frequent set: { Not Handicapped Infants,Superfund Right to Sue,Crime }, support: 0.31
+Frequent set: { Education Spending,Export Administration Act South Africa,Crime }, support: 0.33
+Frequent set: { Education Spending,Superfund Right to Sue,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not Duty Free Exports,Not Handicapped Infants,Crime }, support: 0.31
+Frequent set: { MX Missile,Adoption of the Budget Resolution,Democrat }, support: 0.39
+Frequent set: { Religious Groups in Schools,Education Spending,El Salvador Aid }, support: 0.42
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Not Religious Groups in Schools }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Export Administration Act South Africa }, support: 0.33
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Duty Free Exports }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Education Spending,Not El Salvador Aid }, support: 0.42
+Frequent set: { Not El Salvador Aid,Democrat,Not Religious Groups in Schools }, support: 0.30
+Frequent set: { Republican,Physician Fee Freeze,Crime }, support: 0.36
+Frequent set: { Not Physician Fee Freeze,Not Superfund Right to Sue,Education Spending }, support: 0.38
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Crime }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.42
+Frequent set: { Aid to Nicaraguan Contras,Handicapped Infants,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Not Duty Free Exports,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Adoption of the Budget Resolution,Democrat }, support: 0.37
+Frequent set: { MX Missile,Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Handicapped Infants,Physician Fee Freeze }, support: 0.30
+Frequent set: { Religious Groups in Schools,Superfund Right to Sue,El Salvador Aid }, support: 0.37
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Handicapped Infants,Education Spending }, support: 0.30
+Frequent set: { Religious Groups in Schools,Superfund Right to Sue,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { MX Missile,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Religious Groups in Schools,Republican,Crime }, support: 0.32
+Frequent set: { Not Aid to Nicaraguan Contras,El Salvador Aid,Crime }, support: 0.38
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Physician Fee Freeze }, support: 0.31
+Frequent set: { Not Crime,Adoption of the Budget Resolution,Democrat }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Not Crime }, support: 0.36
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Education Spending }, support: 0.42
+Frequent set: { Not MX Missile,Physician Fee Freeze,El Salvador Aid }, support: 0.35
+Frequent set: { Not Aid to Nicaraguan Contras,Physician Fee Freeze,El Salvador Aid }, support: 0.33
+Frequent set: { Not MX Missile,Republican,Education Spending }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Aid to Nicaraguan Contras,Crime }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Not Superfund Right to Sue,Not Crime }, support: 0.30
+Frequent set: { Not Duty Free Exports,Not MX Missile,Physician Fee Freeze }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Handicapped Infants,Democrat }, support: 0.31
+Frequent set: { Not Synfuel Corporatino Cutback,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { MX Missile,Not Superfund Right to Sue,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not MX Missile,Not Handicapped Infants,Crime }, support: 0.31
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Crime }, support: 0.36
+Frequent set: { Religious Groups in Schools,Not Adoption of the Budget Resolution,Not MX Missile }, support: 0.32
+Frequent set: { Not Duty Free Exports,Not Aid to Nicaraguan Contras,Crime }, support: 0.33
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Export Administration Act South Africa }, support: 0.30
+Frequent set: { Religious Groups in Schools,Not MX Missile,Not Handicapped Infants }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Not Superfund Right to Sue,Not Physician Fee Freeze }, support: 0.36
+Frequent set: { Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not Handicapped Infants,Education Spending,Not Duty Free Exports }, support: 0.32
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Not Crime }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Duty Free Exports }, support: 0.33
+Frequent set: { El Salvador Aid,Superfund Right to Sue,Crime }, support: 0.37
+Frequent set: { Not El Salvador Aid,Education Spending,MX Missile }, support: 0.39
+Frequent set: { Aid to Nicaraguan Contras,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.46
+Frequent set: { Physician Fee Freeze,Not Aid to Nicaraguan Contras,Crime }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not Religious Groups in Schools }, support: 0.31
+Frequent set: { Education Spending,Not Synfuel Corporatino Cutback,Religious Groups in Schools,Crime }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Physician Fee Freeze,Republican }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Handicapped Infants,Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat }, support: 0.32
+Frequent set: { Education Spending,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Democrat }, support: 0.45
+Frequent set: { Education Spending,Not Duty Free Exports,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Education Spending,Physician Fee Freeze,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.34
+Frequent set: { Physician Fee Freeze,Superfund Right to Sue,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Education Spending,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Education Spending,Not MX Missile,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Not Aid to Nicaraguan Contras,Religious Groups in Schools,El Salvador Aid,Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Democrat }, support: 0.32
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Crime }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Education Spending,Republican,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.39
+Frequent set: { Education Spending,Physician Fee Freeze,Not Duty Free Exports,Crime }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.43
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,Republican,Crime }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,El Salvador Aid,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not MX Missile,Physician Fee Freeze,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Duty Free Exports,Crime }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.40
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Not Duty Free Exports,El Salvador Aid }, support: 0.32
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not MX Missile,Physician Fee Freeze,Republican,El Salvador Aid }, support: 0.33
+Frequent set: { Education Spending,Physician Fee Freeze,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,MX Missile,Aid to Nicaraguan Contras,Democrat }, support: 0.40
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Duty Free Exports,Aid to Nicaraguan Contras,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,MX Missile,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.35
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,MX Missile,Democrat }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,MX Missile,Not Physician Fee Freeze }, support: 0.36
+Frequent set: { Physician Fee Freeze,Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,Crime }, support: 0.36
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not Aid to Nicaraguan Contras,Religious Groups in Schools,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Not Aid to Nicaraguan Contras,El Salvador Aid,Crime }, support: 0.30
+Frequent set: { Not MX Missile,El Salvador Aid,Not Aid to Nicaraguan Contras,Physician Fee Freeze }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,MX Missile }, support: 0.38
+Frequent set: { Education Spending,Superfund Right to Sue,Not MX Missile,El Salvador Aid }, support: 0.32
+Frequent set: { Not Crime,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Anty Satellite Test Band,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze,MX Missile }, support: 0.31
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,MX Missile,Adoption of the Budget Resolution,Democrat }, support: 0.31
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Not Crime,Democrat }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Democrat,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Education Spending,Physician Fee Freeze,Not Duty Free Exports,Republican }, support: 0.30
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Religious Groups in Schools,Crime }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.40
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Not MX Missile }, support: 0.32
+Frequent set: { Not MX Missile,Not Duty Free Exports,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Not Duty Free Exports,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.30
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.35
+Frequent set: { Education Spending,MX Missile,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Handicapped Infants,Education Spending,Not Physician Fee Freeze,Democrat }, support: 0.32
+Frequent set: { Not MX Missile,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Not Duty Free Exports,Crime }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Not MX Missile,Physician Fee Freeze,Religious Groups in Schools,Republican }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Crime }, support: 0.33
+Frequent set: { Not El Salvador Aid,MX Missile,Aid to Nicaraguan Contras,Democrat }, support: 0.39
+Frequent set: { Not Handicapped Infants,Religious Groups in Schools,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Anti Satellite Test Band,Not Crime }, support: 0.32
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Export Administration Act South Africa }, support: 0.30
+Frequent set: { Not Crime,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.35
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Not MX Missile,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports,Education Spending,Democrat }, support: 0.33
+Frequent set: { Not MX Missile,Physician Fee Freeze,Not Aid to Nicaraguan Contras,Crime }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,MX Missile,Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.42
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,Religious Groups in Schools,El Salvador Aid }, support: 0.34
+Frequent set: { MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Not Handicapped Infants }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Anti Satellite Test Band,Not Crime,Democrat }, support: 0.34
+Frequent set: { Not El Salvador Aid,MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.37
+Frequent set: { Duty Free Exports,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Education Spending,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.39
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Democrat }, support: 0.43
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,MX Missile,Anti Satellite Test Band }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.46
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.30
+Frequent set: { Education Spending,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.36
+Frequent set: { Education Spending,Not MX Missile,Not Anty Satellite Test Band,Crime }, support: 0.31
+Frequent set: { Education Spending,Not Anty Satellite Test Band,Not Aid to Nicaraguan Contras,Crime }, support: 0.30
+Frequent set: { Not Physician Fee Freeze,MX Missile,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Not Handicapped Infants,Education Spending,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Crime,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime }, support: 0.33
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Physician Fee Freeze,Republican }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Democrat }, support: 0.44
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Republican,Crime }, support: 0.32
+Frequent set: { Not Crime,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not El Salvador Aid,Education Spending,Anti Satellite Test Band,Democrat }, support: 0.39
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Not Crime }, support: 0.34
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.40
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,MX Missile,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Crime }, support: 0.36
+Frequent set: { Not El Salvador Aid,MX Missile,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Republican,El Salvador Aid }, support: 0.30
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.33
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Education Spending,Not Crime }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Crime }, support: 0.37
+Frequent set: { Superfund Right to Sue,Not Anty Satellite Test Band,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Not Aid to Nicaraguan Contras,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,Religious Groups in Schools,El Salvador Aid }, support: 0.30
+Frequent set: { Handicapped Infants,Education Spending,Adoption of the Budget Resolution,Democrat }, support: 0.30
+Frequent set: { Education Spending,Not Crime,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not Anty Satellite Test Band,Crime }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Democrat,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Not Religious Groups in Schools,Aid to Nicaraguan Contras,Democrat }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,MX Missile }, support: 0.30
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid }, support: 0.35
+Frequent set: { Not MX Missile,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution,Democrat }, support: 0.38
+Frequent set: { Education Spending,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.39
+Frequent set: { Education Spending,MX Missile,Aid to Nicaraguan Contras,Democrat }, support: 0.39
+Frequent set: { Not El Salvador Aid,Education Spending,MX Missile,Democrat }, support: 0.37
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Democrat }, support: 0.38
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.34
+Frequent set: { Education Spending,MX Missile,Adoption of the Budget Resolution,Democrat }, support: 0.37
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Republican,El Salvador Aid }, support: 0.33
+Frequent set: { Education Spending,Not MX Missile,Not Duty Free Exports,Crime }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Duty Free Exports,Democrat }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.40
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.32
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.33
+Frequent set: { Education Spending,Not Physician Fee Freeze,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Not El Salvador Aid,Education Spending,Duty Free Exports,Democrat }, support: 0.30
+Frequent set: { Education Spending,Superfund Right to Sue,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not El Salvador Aid,Education Spending,Not Physician Fee Freeze,Anti Satellite Test Band }, support: 0.38
+Frequent set: { Education Spending,Not Physician Fee Freeze,Not Crime,Democrat }, support: 0.35
+Frequent set: { Education Spending,Physician Fee Freeze,Superfund Right to Sue,Crime }, support: 0.30
+Frequent set: { Education Spending,Not MX Missile,Religious Groups in Schools,Not Handicapped Infants }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Religious Groups in Schools,El Salvador Aid }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,MX Missile,Anti Satellite Test Band,Democrat }, support: 0.37
+Frequent set: { Not MX Missile,Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid }, support: 0.33
+Frequent set: { Not Aid to Nicaraguan Contras,Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid }, support: 0.32
+Frequent set: { Handicapped Infants,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Democrat }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Republican }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Aid to Nicaraguan Contras,Republican,El Salvador Aid,Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Duty Free Exports,Aid to Nicaraguan Contras,Democrat }, support: 0.31
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Education Spending,Not Duty Free Exports,Religious Groups in Schools,Not MX Missile }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Adoption of the Budget Resolution,Democrat }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Anti Satellite Test Band,Democrat }, support: 0.41
+Frequent set: { Education Spending,Religious Groups in Schools,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.34
+Frequent set: { Not MX Missile,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.37
+Frequent set: { Superfund Right to Sue,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,MX Missile,Anti Satellite Test Band,Democrat }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze }, support: 0.42
+Frequent set: { Not El Salvador Aid,MX Missile,Not Crime,Democrat }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.42
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Education Spending,Not Duty Free Exports,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Not Handicapped Infants,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { MX Missile,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.35
+Frequent set: { Not MX Missile,Education Spending,Not Aid to Nicaraguan Contras,Crime }, support: 0.33
+Frequent set: { Not El Salvador Aid,Education Spending,Anti Satellite Test Band,Not Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Anti Satellite Test Band,Democrat }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Republican,El Salvador Aid,Crime }, support: 0.30
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat }, support: 0.35
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,El Salvador Aid }, support: 0.34
+Frequent set: { Education Spending,Not Physician Fee Freeze,Anti Satellite Test Band,Not Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat }, support: 0.36
+Frequent set: { Not MX Missile,Superfund Right to Sue,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,MX Missile,Education Spending,Democrat }, support: 0.39
+Frequent set: { Education Spending,Superfund Right to Sue,Not Duty Free Exports,El Salvador Aid }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Physician Fee Freeze,Not Aid to Nicaraguan Contras,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Education Spending,Adoption of the Budget Resolution,Democrat,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,MX Missile,Aid to Nicaraguan Contras,Democrat }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports,Adoption of the Budget Resolution,Democrat }, support: 0.32
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras }, support: 0.34
+Frequent set: { Education Spending,Physician Fee Freeze,Republican,El Salvador Aid }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Aid to Nicaraguan Contras }, support: 0.38
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Not MX Missile }, support: 0.31
+Frequent set: { Education Spending,MX Missile,Anti Satellite Test Band,Democrat }, support: 0.36
+Frequent set: { Not El Salvador Aid,Duty Free Exports,Aid to Nicaraguan Contras,Democrat }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Religious Groups in Schools,El Salvador Aid }, support: 0.31
+Frequent set: { Physician Fee Freeze,Not Duty Free Exports,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,MX Missile }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Not Physician Fee Freeze,Democrat }, support: 0.38
+Frequent set: { Not Physician Fee Freeze,Not Crime,Adoption of the Budget Resolution,Democrat }, support: 0.36
+Frequent set: { Education Spending,Religious Groups in Schools,Not Handicapped Infants,Crime }, support: 0.34
+Frequent set: { Education Spending,Not Crime,Adoption of the Budget Resolution,Democrat }, support: 0.34
+Frequent set: { Education Spending,Superfund Right to Sue,Not MX Missile,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Not Crime,Democrat }, support: 0.34
+Frequent set: { Not Handicapped Infants,Education Spending,Religious Groups in Schools,Not Duty Free Exports }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat }, support: 0.42
+Frequent set: { MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.37
+Frequent set: { Education Spending,Religious Groups in Schools,Not Handicapped Infants,El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.40
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,Not Duty Free Exports,Crime }, support: 0.33
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze,Anti Satellite Test Band }, support: 0.34
+Frequent set: { Education Spending,Not MX Missile,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Anty Satellite Test Band,Crime }, support: 0.32
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not El Salvador Aid,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.41
+Frequent set: { Not MX Missile,Not Duty Free Exports,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Education Spending,Not Synfuel Corporatino Cutback,El Salvador Aid,Crime }, support: 0.30
+Frequent set: { Not El Salvador Aid,Education Spending,Not Physician Fee Freeze,Democrat }, support: 0.42
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Physician Fee Freeze,El Salvador Aid }, support: 0.31
+Frequent set: { Not MX Missile,Physician Fee Freeze,Republican,Crime }, support: 0.31
+Frequent set: { MX Missile,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat }, support: 0.38
+Frequent set: { Not El Salvador Aid,Anti Satellite Test Band,Not Crime,Democrat }, support: 0.32
+Frequent set: { Not MX Missile,Not Anty Satellite Test Band,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,MX Missile,Aid to Nicaraguan Contras,Not Crime }, support: 0.30
+Frequent set: { Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution,Democrat }, support: 0.36
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Not Crime,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat }, support: 0.47
+Frequent set: { Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Democrat,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Not Crime,Not El Salvador Aid,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not El Salvador Aid,Education Spending,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Not MX Missile,Physician Fee Freeze,Religious Groups in Schools,Crime }, support: 0.32
+Frequent set: { Education Spending,Not Duty Free Exports,Not MX Missile,El Salvador Aid }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports,Anti Satellite Test Band,Democrat }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not Handicapped Infants,Education Spending,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,El Salvador Aid }, support: 0.37
+Frequent set: { MX Missile,Aid to Nicaraguan Contras,Not Crime,Democrat }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Crime,Adoption of the Budget Resolution,Democrat }, support: 0.33
+Frequent set: { Education Spending,Superfund Right to Sue,Not Aid to Nicaraguan Contras,Crime }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Education Spending,Democrat,Export Administration Act South Africa }, support: 0.35
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Not Crime,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Anty Satellite Test Band,Crime }, support: 0.31
+Frequent set: { Not MX Missile,Superfund Right to Sue,Religious Groups in Schools,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Not MX Missile,Republican }, support: 0.31
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,Physician Fee Freeze,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Republican,Crime }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Democrat }, support: 0.38
+Frequent set: { Education Spending,MX Missile,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze,Not Crime }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,MX Missile,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Anti Satellite Test Band,Democrat }, support: 0.36
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa }, support: 0.32
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.35
+Frequent set: { Education Spending,Duty Free Exports,Adoption of the Budget Resolution,Democrat }, support: 0.30
+Frequent set: { Education Spending,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.36
+Frequent set: { Not MX Missile,Republican,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.41
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Not MX Missile,El Salvador Aid }, support: 0.34
+Frequent set: { Not Crime,Education Spending,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not El Salvador Aid,Education Spending,Not Crime,Democrat }, support: 0.33
+Frequent set: { Not Physician Fee Freeze,Not Crime,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,El Salvador Aid,Crime }, support: 0.35
+Frequent set: { Not Crime,Anti Satellite Test Band,Adoption of the Budget Resolution,Democrat }, support: 0.32
+Frequent set: { Not El Salvador Aid,Education Spending,Adoption of the Budget Resolution,Democrat }, support: 0.40
+Frequent set: { Not El Salvador Aid,MX Missile,Anti Satellite Test Band,Democrat }, support: 0.36
+Frequent set: { Not Aid to Nicaraguan Contras,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.33
+Frequent set: { Not MX Missile,El Salvador Aid,Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not MX Missile,Superfund Right to Sue,Not Aid to Nicaraguan Contras,Crime }, support: 0.30
+Frequent set: { Not MX Missile,Physician Fee Freeze,Religious Groups in Schools,El Salvador Aid }, support: 0.33
+Frequent set: { Physician Fee Freeze,Superfund Right to Sue,Republican,El Salvador Aid }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Religious Groups in Schools,Aid to Nicaraguan Contras,Democrat }, support: 0.30
+Frequent set: { Not Physician Fee Freeze,Education Spending,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Not MX Missile,Religious Groups in Schools,Not Duty Free Exports,Not Anty Satellite Test Band }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.43
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.42
+Frequent set: { Not Superfund Right to Sue,Education Spending,Not Physician Fee Freeze,Anti Satellite Test Band }, support: 0.33
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.31
+Frequent set: { Not MX Missile,Superfund Right to Sue,Religious Groups in Schools,Crime }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Physician Fee Freeze,Not Duty Free Exports,Republican,Crime }, support: 0.31
+Frequent set: { Religious Groups in Schools,Republican,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,MX Missile,Anti Satellite Test Band }, support: 0.30
+Frequent set: { Not Adoption of the Budget Resolution,Not MX Missile,Religious Groups in Schools,Crime }, support: 0.30
+Frequent set: { Not MX Missile,Religious Groups in Schools,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze,Aid to Nicaraguan Contras }, support: 0.35
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Aid to Nicaraguan Contras,Superfund Right to Sue,Not Duty Free Exports,El Salvador Aid }, support: 0.30
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Not Physician Fee Freeze,Democrat }, support: 0.36
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,MX Missile,Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Education Spending,Democrat }, support: 0.34
+Frequent set: { Not Aid to Nicaraguan Contras,Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Physician Fee Freeze,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not MX Missile,Physician Fee Freeze,Not Duty Free Exports,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Superfund Right to Sue,Not Duty Free Exports,Crime }, support: 0.33
+Frequent set: { Not Physician Fee Freeze,Duty Free Exports,Aid to Nicaraguan Contras,Democrat }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,MX Missile,Not Physician Fee Freeze }, support: 0.38
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,MX Missile,Democrat }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,MX Missile,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Education Spending,Not MX Missile,El Salvador Aid,Crime }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,Education Spending,MX Missile,Democrat }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Not Crime,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Aid to Nicaraguan Contras,Adoption of the Budget Resolution,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat }, support: 0.33
+Frequent set: { Education Spending,Physician Fee Freeze,Not MX Missile,El Salvador Aid }, support: 0.33
+Frequent set: { Education Spending,Not MX Missile,Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not El Salvador Aid,Education Spending,Aid to Nicaraguan Contras,Not Crime }, support: 0.32
+Frequent set: { Not Physician Fee Freeze,MX Missile,Not Crime,Democrat }, support: 0.31
+Frequent set: { Education Spending,Superfund Right to Sue,Religious Groups in Schools,Not Duty Free Exports }, support: 0.34
+Frequent set: { Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Physician Fee Freeze,Republican,El Salvador Aid,Crime }, support: 0.34
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.34
+Frequent set: { Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat,Export Administration Act South Africa }, support: 0.34
+Frequent set: { Education Spending,Physician Fee Freeze,Not Duty Free Exports,El Salvador Aid }, support: 0.31
+Frequent set: { Not Physician Fee Freeze,Education Spending,Anti Satellite Test Band,Democrat }, support: 0.42
+Frequent set: { Not Superfund Right to Sue,Education Spending,Adoption of the Budget Resolution,Democrat }, support: 0.34
+Frequent set: { Education Spending,MX Missile,Aid to Nicaraguan Contras,Anti Satellite Test Band }, support: 0.37
+Frequent set: { Not Physician Fee Freeze,MX Missile,Education Spending,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,MX Missile,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Not Aid to Nicaraguan Contras,Religious Groups in Schools,El Salvador Aid }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Not Physician Fee Freeze,Adoption of the Budget Resolution,Democrat }, support: 0.37
+Frequent set: { Education Spending,Religious Groups in Schools,Republican,Crime }, support: 0.30
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,Not Anty Satellite Test Band,Crime }, support: 0.31
+Frequent set: { Superfund Right to Sue,Religious Groups in Schools,Not Duty Free Exports,El Salvador Aid }, support: 0.32
+Frequent set: { Not El Salvador Aid,Education Spending,MX Missile,Anti Satellite Test Band }, support: 0.36
+Frequent set: { Not MX Missile,Physician Fee Freeze,Education Spending,Crime }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Anti Satellite Test Band }, support: 0.35
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Education Spending,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Not El Salvador Aid,Not Physician Fee Freeze,Duty Free Exports,Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Not El Salvador Aid,Not Superfund Right to Sue,Aid to Nicaraguan Contras,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Adoption of the Budget Resolution,Religious Groups in Schools,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Not Aid to Nicaraguan Contras }, support: 0.32
+Frequent set: { Not Adoption of the Budget Resolution,Education Spending,El Salvador Aid,Crime }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze,Export Administration Act South Africa }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Crime }, support: 0.34
+Frequent set: { Physician Fee Freeze,Not Duty Free Exports,El Salvador Aid,Crime }, support: 0.32
+Frequent set: { Not MX Missile,Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Not MX Missile,Religious Groups in Schools,El Salvador Aid,Not Anty Satellite Test Band }, support: 0.33
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Superfund Right to Sue,El Salvador Aid }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,MX Missile }, support: 0.30
+Frequent set: { Education Spending,Crime,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.32
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Not MX Missile,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.36
+Frequent set: { Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Education Spending,Religious Groups in Schools,Not Anty Satellite Test Band,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Export Administration Act South Africa,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Democrat,Export Administration Act South Africa,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Crime,Not MX Missile }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,MX Missile }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,MX Missile }, support: 0.37
+Frequent set: { Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Religious Groups in Schools,Crime,Not MX Missile,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Crime,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.37
+Frequent set: { Education Spending,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Crime,Superfund Right to Sue }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat }, support: 0.32
+Frequent set: { Education Spending,Not Crime,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not MX Missile,El Salvador Aid }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.31
+Frequent set: { Education Spending,Physician Fee Freeze,Crime,Republican,El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Not Crime,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid }, support: 0.33
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not MX Missile,Superfund Right to Sue }, support: 0.30
+Frequent set: { Crime,Not MX Missile,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Education Spending,Crime,Not MX Missile,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.30
+Frequent set: { Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Education Spending,Crime,Not MX Missile,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Democrat,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.35
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.40
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,MX Missile }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Democrat,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Education Spending,Crime,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Crime,Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,MX Missile }, support: 0.34
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Anti Satellite Test Band,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Education Spending,Not Duty Free Exports,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.35
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Crime,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,MX Missile,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Religious Groups in Schools,Not Anty Satellite Test Band,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,MX Missile }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze }, support: 0.39
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Physician Fee Freeze,Crime,Not MX Missile,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Duty Free Exports }, support: 0.31
+Frequent set: { Education Spending,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Not Duty Free Exports,Crime,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Not Duty Free Exports,Crime,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.38
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Anti Satellite Test Band,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid }, support: 0.39
+Frequent set: { Religious Groups in Schools,Crime,Not MX Missile,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.31
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Not MX Missile,El Salvador Aid,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Education Spending,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.33
+Frequent set: { Education Spending,Physician Fee Freeze,Crime,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Export Administration Act South Africa,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Religious Groups in Schools,Crime,Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Not Duty Free Exports,Crime,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.41
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.35
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,Duty Free Exports,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Crime,El Salvador Aid }, support: 0.32
+Frequent set: { Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile }, support: 0.36
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Duty Free Exports,Crime,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.36
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat }, support: 0.31
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Crime,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Not Anty Satellite Test Band,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.38
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.43
+Frequent set: { Physician Fee Freeze,Religious Groups in Schools,Crime,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Physician Fee Freeze,Not MX Missile,Republican,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,MX Missile }, support: 0.35
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Crime,El Salvador Aid }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.30
+Frequent set: { Education Spending,Religious Groups in Schools,Not Duty Free Exports,Not MX Missile,El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Religious Groups in Schools,Not Anty Satellite Test Band,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze }, support: 0.35
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,MX Missile,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.41
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,Duty Free Exports }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not Aid to Nicaraguan Contras,Superfund Right to Sue,El Salvador Aid }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.37
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile }, support: 0.34
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Crime,Superfund Right to Sue,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Religious Groups in Schools,Not Duty Free Exports,Crime,Not MX Missile,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Religious Groups in Schools,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.32
+Frequent set: { Education Spending,Physician Fee Freeze,Religious Groups in Schools,Crime,Republican }, support: 0.30
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not MX Missile,Not Aid to Nicaraguan Contras }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.40
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Religious Groups in Schools,Crime,Not Aid to Nicaraguan Contras,Not Anty Satellite Test Band,El Salvador Aid }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.34
+Frequent set: { Religious Groups in Schools,Crime,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.34
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.34
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile }, support: 0.34
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.38
+Frequent set: { Education Spending,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.30
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.39
+Frequent set: { Education Spending,Religious Groups in Schools,Crime,Not MX Missile,Not Aid to Nicaraguan Contras,El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.35
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.36
+Frequent set: { Not Superfund Right to Sue,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Not Superfund Right to Sue,Education Spending,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.37
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.37
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.30
+Frequent set: { Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile }, support: 0.34
+Frequent set: { Education Spending,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.35
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.33
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.32
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile }, support: 0.32
+Frequent set: { Not Superfund Right to Sue,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,MX Missile,Adoption of the Budget Resolution }, support: 0.31
+Frequent set: { Not Superfund Right to Sue,Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze }, support: 0.31
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Aid to Nicaraguan Contras,Anti Satellite Test Band,Not Crime,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,Adoption of the Budget Resolution }, support: 0.30
+Frequent set: { Education Spending,Aid to Nicaraguan Contras,Anti Satellite Test Band,Democrat,Not El Salvador Aid,Not Physician Fee Freeze,MX Missile,Adoption of the Budget Resolution }, support: 0.30
