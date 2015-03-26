@@ -117,39 +117,56 @@ def prune_by_support(datasets, candidates, min_sup):
 
     return prunned_items, support_cnts
 
-def generate_rules(f_set, Hm, sup_cnts, min_conf):
+def get_candidate_rules(frequent_sets):
+    ret_frequent = []
+    freq_len = len(frequent_sets)
+    #print "get_candidates : freq_sets = {0}, len = {1}".format(frequent_sets, freq_len)
+    for i in range(freq_len):
+        for j in range(i+1, freq_len):
+            fli = list(frequent_sets[i])
+            fli.sort()
+            #print "fli: {0}, {1}".format(fli, i)
+            flj = list(frequent_sets[j])
+            flj.sort()
+            #print "flj: {0}, {1}".format(flj, j)
+            if (len(fli) < 2):
+                fsi = fli[0]
+                fsj = flj[0]
+                #print "fsi == fsj : {0} == {1}".format(fsi, fsj)
+                ret_frequent.append(frequent_sets[i] | frequent_sets[j])
+            else:
+                fsi = fli[:-1]
+                fsj = flj[:-1]
+                #print "fsi == fsj : {0} == {1}".format(fsi, fsj)
+                if fsi == fsj:
+                    ret_frequent.append(frequent_sets[i] | frequent_sets[j])
+    return ret_frequent
+
+def generate_rules(f_set, Hm, sup_cnts, min_conf, rules):
     k = len(f_set)
     m = len(Hm[0])
-    ret = []
     if (k > m + 1):
-        Hm1 = get_candidates(Hm)
-        Hm1 = prune_by_confidence(f_set, Hm1, sup_cnts, min_conf)
-        ret = ret + Hm1
+        Hm1 = get_candidate_rules(Hm)
+        prune_by_confidence(f_set, Hm1, sup_cnts, min_conf, rules)
+        #print "Pruned rules: {0}:".format(Hm1)
         if len(Hm1) > 1:
-            generate_rules(f_set, Hm1, sup_cnts, min_conf)
-    return ret
+            generate_rules(f_set, Hm1, sup_cnts, min_conf, rules)
 
-def prune_by_confidence(f_set, H, sup_cnts, min_conf):
-    ret = []
+def prune_by_confidence(f_set, H, sup_cnts, min_conf, rules):
     for consequence in H:
         rule = f_set - consequence
         confidence = sup_cnts[f_set] / sup_cnts[rule]
-        if confidence > min_conf:
-            ret.append((rule, consequence, confidence))
-    return ret
+        if confidence >= min_conf:
+            #print "** Rule: {0} \nconsequence: {1}\n confidence: {2}".format(rule, consequence, confidence)
+            rules.append((rule, consequence, confidence))
     
-
 def get_rules(f, sup_cnts, min_conf = 0.6):
     rules = []
     for i in range(1, len(f)):
         for f_set in f[i]:
             Hm = [frozenset([itemset]) for itemset in f_set]
-            if (i == 1):
-                rules_set = prune_by_confidence(f_set, Hm, sup_cnts, min_conf)
-                rules = rules + rules_set
-            else:
-                rules_set = generate_rules(f_set, Hm, sup_cnts, min_conf)
-                rules = rules + rules_set
+            generate_rules(f_set, Hm, sup_cnts, min_conf, rules)
+    #print rules
     return rules
 
 def get_data_from_url(url):
@@ -248,11 +265,11 @@ if __name__ == '__main__':
 
     frequent_sets, sup_cnts = apriori(data, min_sup)
     frequent_sets = frequent_sets[:-1]
-    print "Final Frequent Sets:"
+    #print "Final Frequent Sets:"
     #print_list(frequent_sets)
     #print_support(sup_cnts)
     print_freq_items_tofile(frequent_sets, sup_cnts)
     rules = get_rules(frequent_sets, sup_cnts, min_conf)
-    print "Rules: "
-    rules.sort(key = itemgetter(2))
+    #print "Rules: "
+    rules.sort(key = itemgetter(2), reverse=True)
     print_rules_tofile(rules)
