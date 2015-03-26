@@ -15,23 +15,23 @@ def print_support(support):
 def print_freq_items(sets, support):
     for ss in sets:
         for s in ss:
-            print "Frequent set: {{ {0} }}, support: {1:.2f}".format(",".join(s), support[s])
+            print "Frequent set: {{ {0} }}, support: {1:.2f}".format(", ".join(s), support[s])
 
 def print_freq_items_tofile(sets, support):
     f = open('mfis.txt', 'w')
     for ss in sets:
         for s in ss:
-            f.write("Frequent set: {{ {0} }}, support: {1:.2f}\n".format(",".join(s), support[s]))
+            f.write("Frequent set: {{ {0} }}, support: {1:.2f}\n".format(", ".join(s), support[s]))
     f.close()
 
 def print_rules(rules):
     for rule in rules:
-        print "{{ {0} }} --> {{ {1} }}, conf: {2:.2f}".format(",".join(rule[0]), ",".join(rule[1]), rule[2])
+        print "{{ {0} }} --> {{ {1} }}, conf: {2:.2f}".format(", ".join(rule[0]), ", ".join(rule[1]), rule[2])
 
 def print_rules_tofile(rules):
     f = open('topar.txt', 'w')
     for rule in rules:
-        f.write("{{ {0} }} --> {{ {1} }}, conf: {2:.2f} \n".format(",".join(rule[0]), ",".join(rule[1]), rule[2]))
+        f.write("{{ {0} }} --> {{ {1} }}, conf: {2:.2f} \n".format(", ".join(rule[0]), ", ".join(rule[1]), rule[2]))
     f.close()
 
 def apriori(data, min_sup=0.3):

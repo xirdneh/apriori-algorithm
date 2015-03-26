@@ -4,7 +4,7 @@ Implementation of an Apriori Algorithm and Rule generation with confidence pruni
 ## Usage
 `python main.yp [dataset] [min_sup] [min_conf]`
 
-`dataset` can be a url or a local .csv file. It can also be just the word *url* and it will automatically download the data from the url listed below
+`dataset` can be a url or a local .csv file. It can also be just the string *url* and it will automatically download the data from the url listed below
 
 `min_sup` is the minimum support value, default to 0.3
 
